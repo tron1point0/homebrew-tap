@@ -1,3 +1,7 @@
+# Clone of
+# https://github.com/Homebrew/homebrew-core/blob/HEAD/Formula/fortune.rb with
+# the offensive fortunes added back.
+
 class Fortune < Formula
   desc "Infamous electronic fortune-cookie generator"
   homepage "https://www.ibiblio.org/pub/linux/games/amusements/fortune/!INDEX.html"
